@@ -5,7 +5,9 @@
       "namespace": "android_app",
       "package_name": "com.propertybox.propertybox",
       "sha256_cert_fingerprints": [
-        "D2:38:E4:5A:FA:92:A8:6D:DA:20:12:89:DD:AC:74:B1:B5:1E:58:7E:6A:BA:A1:DF:A3:D3:A8:01:8C:EC:9E:AB"
+        "D2:38:E4:5A:FA:92:A8:6D:DA:20:12:89:DD:AC:74:B1:B5:1E:58:7E:6A:BA:A1:DF:A3:D3:A8:01:8C:EC:9E:AB",
+        "b1:3b:b1:18:68:1f:d5:8e:ac:05:f9:a9:2f:89:fc:d9:63:09:35:90:ff:44:2d:8d:80:3f:7b:ab:c9:fb:0e:a1",
+        "4C:31:B8:21:13:88:BE:4B:20:B2:3B:F3:BA:85:22:AD:30:3A:1F:5C:AC:65:23:3D:65:C5:3D:74:03:73:28:44"
       ]
     }
   }
