@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "propertybox",
+    "site": "propertyboxx",
     "public": "public",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
